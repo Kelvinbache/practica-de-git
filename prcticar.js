@@ -6,9 +6,7 @@ nombre = kelvin;
 
 
 /*tips para no mostra toda informcion de los estados
-
 1) git status -s (sirve para mostra el estaado del contenido)
-
 */
 
 
@@ -24,5 +22,13 @@ nombre = kelvin;
 
  /*forma para ver que rama estas  
  git branch (te permite ver que rama estas)
- 
+  */
+
+ /*como crear un archivo en terminal
+ mkdir archivo 
  */
+
+/*como ver la informacion 
+cat permite ver la informacion 
+*/
+
